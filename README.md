@@ -5,7 +5,29 @@
 With over 7 years of web development experience, I have honed my skills as a PHP Developer, successfully delivering dynamic and complex projects for corporates, communities, and individuals. My expertise spans both front-end and back-end development, ensuring seamless user experiences and robust functionality.
 
 ---
+### Skills and Tools
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-blue?style=flat-square&logo=codeigniter)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery)
+![Ajax](https://img.shields.io/badge/-Ajax-red?style=flat-square&logo=ajax)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon-aws)
 
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+### Languages & Tools I Use
+- **Frontend:** React, HTML, CSS, JavaScript, jQuery, Bootstrap
+- **Backend:** Laravel, CodeIgniter, PHP, MySQL
+- **Others:** Git, GitHub, Docker, AWS
+---
 ### Experience
 
 **Datafortune Software Pvt. Ltd, Hyderabad — Sr. Software Engineer**
