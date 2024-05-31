@@ -12,8 +12,6 @@ With over 7 years of web development experience, I have honed my skills as a PHP
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=wordpress&labelColor=21759B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![NPM](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm&labelColor=ffffff)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)
