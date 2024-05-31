@@ -2,8 +2,6 @@
 
 ### Senior Software Engineer | Full Stack Developer | PHP Developer
 
-"I want to make things that make a difference."
-
 With over 7 years of web development experience, I have honed my skills as a PHP Developer, successfully delivering dynamic and complex projects for corporates, communities, and individuals. My expertise spans both front-end and back-end development, ensuring seamless user experiences and robust functionality.
 
 ---
