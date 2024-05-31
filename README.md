@@ -20,9 +20,6 @@ With over 7 years of web development experience, I have honed my skills as a PHP
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon-aws)
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ### Languages & Tools I Use
 - **Frontend:** React, HTML, CSS, JavaScript, jQuery, Bootstrap
 - **Backend:** Laravel, CodeIgniter, PHP, MySQL
