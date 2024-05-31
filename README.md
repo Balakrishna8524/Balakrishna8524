@@ -5,7 +5,7 @@
 With over 7 years of web development experience, I have honed my skills as a PHP Developer, successfully delivering dynamic and complex projects for corporates, communities, and individuals. My expertise spans both front-end and back-end development, ensuring seamless user experiences and robust functionality.
 
 ---
-### Languages & Tools I Use
+### <font color="green">Languages & Tools I Use</font>
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-blue?style=flat-square&logo=codeigniter)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php)
