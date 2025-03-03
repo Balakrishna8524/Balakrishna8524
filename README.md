@@ -1,66 +1,55 @@
 ## Hi there 👋, I am B. Balakrishna
 
-### Senior Software Engineer | Full Stack Developer | PHP Developer
+### Senior Software Engineer | Next.js | React | Javascript | Laravel | PHP
 
-With over 7 years of web development experience, I have honed my skills as a PHP Developer, successfully delivering dynamic and complex projects for corporates, communities, and individuals. My expertise spans both front-end and back-end development, ensuring seamless user experiences and robust functionality.
+With over 7 years of web development experience, I have honed my skills as a Software Developer, successfully delivered dynamic and complex projects for corporates, communities, and individuals. My expertise spans both front-end and back-end development, ensuring seamless user experiences and robust functionality.
+
+My main technical skill set includes working on React, Next.js, TypeScript, PHP, MySQL, Laravel, JavaScript, Ajax, jQuery, HTML, CSS, and Bootstrap, enabling me to navigate both front-end and back-end intricacies effectively. Rest assured, I am committed to providing top-notch service.
 
 ---
 ### Languages & Tools I Use
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000000?style=for-the-badge&logo=CodeIgniter&logoColor=#E62A00&labelColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP&logoColor=#E62A00&labelColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=for-the-badge&logo=wordpress&labelColor=21759B)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)  
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)  
+![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=000000&labelColor=ffffff)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-000000?style=for-the-badge&logo=GitLab&logoColor=#E62A00&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=for-the-badge&logo=bitbucket&labelColor=0052CC)
-![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-000000?style=for-the-badge&logo=github&labelColor=181717)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=000000&labelColor=ffffff)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=for-the-badge&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=#E62A00&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&labelColor=007ACC)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=for-the-badge&logo=Android%20Studio&logoColor=#E62A00&labelColor=ffffff)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000000?style=for-the-badge&logo=Sublime%20Text&logoColor=#E62A00&labelColor=ffffff)
-![Slack](https://img.shields.io/badge/-Slack-000000?style=for-the-badge&logo=Slack&logoColor=#E62A00&labelColor=ffffff)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macOS&logoColor=#E62A00&labelColor=563D7C)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=#E62A00&labelColor=ffffff)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macOS&logoColor=#E62A00&labelColor=563D7C)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff&labelColor=0078D6)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000000?style=for-the-badge&logo=Sublime%20Text&labelColor=#E62A00)
-![NetBeans](https://img.shields.io/badge/-NetBeans-000000?style=for-the-badge&logo=apache-netbeans-ide&labelColor=1B6AC6)
 ![Composer](https://img.shields.io/badge/-Composer-000000?style=for-the-badge&logo=composer&labelColor=885630)
 ![Artisan](https://img.shields.io/badge/-Artisan-000000?style=for-the-badge&logo=laravel&labelColor=FF2D20)
 ![Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=windows-terminal&labelColor=4D4D4D)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-000000?style=for-the-badge&logo=phpmyadmin&labelColor=0080FF)
-![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000000?style=for-the-badge&logo=heidisql&labelColor=00A100)
-![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=for-the-badge&logo=xampp&labelColor=FB7A24)
-![WampServer](https://img.shields.io/badge/-WampServer-000000?style=for-the-badge&logo=wamp&labelColor=7AC143)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-000000?style=for-the-badge&logo=filezilla&labelColor=B9B9B9)
 ![CoreFTP](https://img.shields.io/badge/-CoreFTP-000000?style=for-the-badge&logo=coreftp&labelColor=1E4F8C)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&labelColor=FF6C37)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000000?style=for-the-badge&logo=microsoft-teams&labelColor=6264A7)
-![TeamViewer](https://img.shields.io/badge/-TeamViewer-000000?style=for-the-badge&logo=teamviewer&labelColor=0E7AC4)
-![AnyDesk](https://img.shields.io/badge/-AnyDesk-000000?style=for-the-badge&logo=anydesk&labelColor=0078D6)
-![Remote Desktop](https://img.shields.io/badge/-Remote%20Desktop-000000?style=for-the-badge&logo=windows&labelColor=0078D6)
-![Skype](https://img.shields.io/badge/-Skype-000000?style=for-the-badge&logo=skype&labelColor=00AFF0)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&labelColor=31A8FF)
-![Adobe Reader](https://img.shields.io/badge/-Adobe%20Reader-000000?style=for-the-badge&logo=adobe-acrobat-reader&labelColor=EC1C24)
-![GIMP](https://img.shields.io/badge/-GIMP-000000?style=for-the-badge&logo=gimp&labelColor=5C5543)
-![Picasa](https://img.shields.io/badge/-Picasa-000000?style=for-the-badge&logo=picasa&labelColor=00A6C7)
-![MS Office](https://img.shields.io/badge/-MS%20Office-000000?style=for-the-badge&logo=microsoft-office&labelColor=D83B01)
-![Libre Office](https://img.shields.io/badge/-Libre%20Office-000000?style=for-the-badge&logo=libreoffice&labelColor=18A303)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP&logoColor=#E62A00&labelColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=ffffff)
 
 ---
 ### Experience
 
+**Softobiz Technologies, Hyderabad — Senior Software Engineer**
+*Jun 2024 - Present*
+
+At Softobiz Technologies, I specialize in building high-performance, scalable web applications with a strong focus on modern frontend development. My work primarily involves React and Next.js, optimizing rendering efficiency through Server-Side Rendering (SSR), Incremental Static Regeneration (ISR), and advanced caching strategies.
+
+I design and develop reusable, accessible UI components to enhance responsiveness and user experience. Additionally, I implement efficient state management solutions, leveraging Redux and React hooks for seamless data handling. My expertise also includes improving performance through lazy loading, dynamic imports, and memoization, ensuring fast and scalable applications.
+   
+      
 **Datafortune Software Pvt. Ltd, Hyderabad — Sr. Software Engineer**
-*2024 - Present*
+*Jan 2024 - May 2024*
 
 **Projects:**
 - **Asset Management System:**
