@@ -8,10 +8,10 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 
 ---
 ### Languages & Tools I Use
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)  
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)  
-![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6) 
@@ -43,9 +43,9 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 **Softobiz Technologies, Hyderabad — Senior Software Engineer**
 *Jun 2024 - Present*
 
-At Softobiz Technologies, I specialize in building high-performance, scalable web applications with a strong focus on modern frontend development. My work primarily involves React and Next.js, optimizing rendering efficiency through Server-Side Rendering (SSR), Incremental Static Regeneration (ISR), and advanced caching strategies.
+  - At Softobiz Technologies, I specialize in building high-performance, scalable web applications with a strong focus on modern frontend development. My work primarily involves React and Next.js, optimizing rendering efficiency through Server-Side Rendering (SSR), Incremental Static Regeneration (ISR), and advanced caching strategies.
 
-I design and develop reusable, accessible UI components to enhance responsiveness and user experience. Additionally, I implement efficient state management solutions, leveraging Redux and React hooks for seamless data handling. My expertise also includes improving performance through lazy loading, dynamic imports, and memoization, ensuring fast and scalable applications.
+  - I design and develop reusable, accessible UI components to enhance responsiveness and user experience. Additionally, I implement efficient state management solutions, leveraging Redux and React hooks for seamless data handling. My expertise also includes improving performance through lazy loading, dynamic imports, and memoization, ensuring fast and scalable applications.
    
       
 **Datafortune Software Pvt. Ltd, Hyderabad — Sr. Software Engineer**
