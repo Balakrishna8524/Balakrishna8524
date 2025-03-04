@@ -40,7 +40,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 ---
 ### Experience
 
-**Softobiz Technologies, Hyderabad — Senior Software Engineer**
+**<h3 style="color: green;">Softobiz Technologies, Hyderabad — Senior Software Engineer</h3>**
 *Jun 2024 - Present*
 
   - At Softobiz Technologies, I specialize in building high-performance, scalable web applications with a strong focus on modern frontend development. My work primarily involves React and Next.js, optimizing rendering efficiency through Server-Side Rendering (SSR), Incremental Static Regeneration (ISR), and advanced caching strategies.
@@ -53,20 +53,17 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 
 **Projects:**
 - **Asset Management System:**
-  - Technologies Used: Laravel, Rest API, JWT, MySQL, HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap, HTML, CSS, Git.
-  - Key Contributions:
-    - 2-Factor Authentication: Designed and integrated a robust 2-factor authentication system to enhance the security of the application login.
-    - Security Enhancements: Implemented JWT Access Token Security and developed custom module authorization using Laravel Middleware.
-    - Performance Optimization: Applied query optimization techniques and database sharding to ensure the system's high performance and scalability.
+  - Technologies Used: React, Next.js, TypeScript, HTML, CSS, Laravel, Rest API, Git.
+  - Key Contributions: As a front-end lead, I spearheaded the development of an efficient Asset Management System using React, Next.js, and TypeScript, delivering a dynamic and scalable user interface. While primarily focused on the front-end, I also provided strategic guidance to the Laravel backend team, ensuring seamless API integration and robust security. 
 
 **PC Control Systems Pvt Ltd, Hyderabad — Sr. Software Developer**
 *2022 - 2024*
 
 **Projects:**
 - **Job/Repair Management System:**
-  - Technologies Used: Core PHP, Laravel, MySQL, Rest API, JavaScript, jQuery, Bootstrap, HTML, CSS, Git.
+  - Technologies Used: React, TypeScript, Core PHP, Laravel, MySQL, Rest API, JavaScript, jQuery, Bootstrap, HTML, CSS, Next.js, Git.
   - Key Contributions:
-    - Module Development and Maintenance: Implemented a new module for dynamic report generation, reducing report generation time by 50%.
+    - Module Development and Maintenance: Coding, debugging, and maintaining existing modules, as well as developing new ones using React, and Core PHP + Laravel. Example: Implemented a new module for dynamic report generation, reducing report generation time by 50%.
     - Web and Mobile APIs: Built RESTful APIs for a mobile app that improved data retrieval times by 30%.
 
 **CredRight Pvt Ltd, Hyderabad — Software Engineer**
@@ -74,7 +71,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 
 **Projects:**
 - **Loan Management System:**
-  - Technologies Used: Laravel, Rest API, JWT, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap, HTML, CSS, Git.
+  - Technologies Used: React, Angular, Laravel, Rest API, JWT, MySQL, HTML, CSS, Vue.js, JavaScript, jQuery, Bootstrap, HTML, CSS, Git.
   - Key Contributions:
     - Sales Module: Developed REST APIs to support the Sales Mobile App, facilitating seamless sales operations.
     - Client Onboarding Module: Created interfaces and APIs for smooth client onboarding, ensuring a user-friendly experience.
@@ -92,9 +89,9 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 
 ### Skills
 
-- **Programming Languages & Frameworks:** PHP, Laravel, CodeIgniter, MySQL, HTML & CSS, JavaScript, jQuery, AJAX, Bootstrap.
+- **Programming Languages & Frameworks:** ​React, Next.js, TypeScript, PHP, Laravel, CodeIgniter, MySQL, HTML & CSS, JavaScript, jQuery, AJAX, Bootstrap.
 - **Tools & Technologies:** Git (Version Control), API/Web Services, PostMan, Project Deployment (in cPanel, AWS), Server Management, Smarty.
-- **Special Skills:** Security Practices, Performance Tuning, Database Optimization, Payment Gateway Integration, Third-Party Integrations.
+- **Special Skills:** Security Practices, Performance Tuning, Third-Party Integrations.
 
 ---
 
