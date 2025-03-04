@@ -2,9 +2,7 @@
 
 ### Senior Software Engineer | Next.js | React | Javascript | Laravel | PHP
 
-With 7+ years of web development experience, I'm currently working as a Front-End Developer, building dynamic and scalable applications. I love creating seamless user experiences with Next.js, React, TypeScript, JavaScript, jQuery, AJAX, HTML, CSS, and Bootstrap, while also having hands-on experience in back-end with Laravel, and PHP. 
-
-Always committed to delivering high-quality solutions! 🚀
+With 7+ years of web development experience, I'm currently working as a Front-End Developer, building dynamic and scalable applications. I love creating seamless user experiences with Next.js, React, TypeScript, JavaScript, jQuery, AJAX, HTML, CSS, and Bootstrap, while also having hands-on experience in back-end with Laravel, and PHP. Always committed to delivering high-quality solutions! 🚀
 
 ---
 ### Languages & Tools I Use
