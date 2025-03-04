@@ -40,7 +40,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
 ---
 ### Experience
 
-**<h3 style="color: green;">Softobiz Technologies, Hyderabad — Senior Software Engineer</h3>**
+💼 **Softobiz Technologies, Hyderabad — Senior Software Engineer**
 *Jun 2024 - Present*
 
   - At Softobiz Technologies, I specialize in building high-performance, scalable web applications with a strong focus on modern frontend development. My work primarily involves React and Next.js, optimizing rendering efficiency through Server-Side Rendering (SSR), Incremental Static Regeneration (ISR), and advanced caching strategies.
@@ -48,7 +48,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
   - I design and develop reusable, accessible UI components to enhance responsiveness and user experience. Additionally, I implement efficient state management solutions, leveraging Redux and React hooks for seamless data handling. My expertise also includes improving performance through lazy loading, dynamic imports, and memoization, ensuring fast and scalable applications.
    
       
-**Datafortune Software Pvt. Ltd, Hyderabad — Sr. Software Engineer**
+💼 **Datafortune Software Pvt. Ltd, Hyderabad — Sr. Software Engineer**
 *Jan 2024 - May 2024*
 
 **Projects:**
@@ -56,7 +56,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
   - Technologies Used: React, Next.js, TypeScript, HTML, CSS, Laravel, Rest API, Git.
   - Key Contributions: As a front-end lead, I spearheaded the development of an efficient Asset Management System using React, Next.js, and TypeScript, delivering a dynamic and scalable user interface. While primarily focused on the front-end, I also provided strategic guidance to the Laravel backend team, ensuring seamless API integration and robust security. 
 
-**PC Control Systems Pvt Ltd, Hyderabad — Sr. Software Developer**
+💼 **PC Control Systems Pvt Ltd, Hyderabad — Sr. Software Developer**
 *2022 - 2024*
 
 **Projects:**
@@ -66,7 +66,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
     - Module Development and Maintenance: Coding, debugging, and maintaining existing modules, as well as developing new ones using React, and Core PHP + Laravel. Example: Implemented a new module for dynamic report generation, reducing report generation time by 50%.
     - Web and Mobile APIs: Built RESTful APIs for a mobile app that improved data retrieval times by 30%.
 
-**CredRight Pvt Ltd, Hyderabad — Software Engineer**
+💼 **CredRight Pvt Ltd, Hyderabad — Software Engineer**
 *2020 - 2022*
 
 **Projects:**
@@ -76,7 +76,7 @@ My main technical skill set includes working on React, Next.js, TypeScript, PHP,
     - Sales Module: Developed REST APIs to support the Sales Mobile App, facilitating seamless sales operations.
     - Client Onboarding Module: Created interfaces and APIs for smooth client onboarding, ensuring a user-friendly experience.
 
-**VNR Seeds Pvt Ltd, Raipur— Associate Web Developer**
+💼 **VNR Seeds Pvt Ltd, Raipur— Associate Web Developer**
 *2017 - 2020*
 
 **Projects:**
