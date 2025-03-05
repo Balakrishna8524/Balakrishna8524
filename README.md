@@ -1,5 +1,4 @@
-## Hi there 👋, I am Balakrishna *aka Balu/Bala* ```text
-\033[47m hello world \033[0m
+## Hi there 👋, I am Balakrishna *aka Balu/Bala* 
 
 ### Senior Software Engineer | Next.js | React | Javascript | Laravel | PHP
 
