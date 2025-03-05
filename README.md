@@ -1,4 +1,4 @@
-## Hi there 👋, I am Balakrishna *aka Balu/Bala*
+## Hi there 👋, I am Balakrishna *aka Balu/Bala* \033[47m Light Background \033[0m
 
 ### Senior Software Engineer | Next.js | React | Javascript | Laravel | PHP
 
